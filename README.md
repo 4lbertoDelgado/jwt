@@ -8,8 +8,9 @@ https://medium.com/@siddharthac6/json-web-token-jwt-the-right-way-of-implementin
 
 ¿Qué flujo de OAuth 2.0 debería usar?  
 https://auth0.com/docs/api-auth/which-oauth-flow-to-use  
-
-
-
+  
+  
+  
+  
 ![flujo-oauth-app-native](https://github.com/4lbertoDelgado/jwt/blob/master/repo-img/oauth-flujo-mobile-app.png "flujo-oauth-app-native")
 
