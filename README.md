@@ -1,5 +1,8 @@
 # jwt
 
+Una introducción a OAuth 2  
+https://www.digitalocean.com/community/tutorials/una-introduccion-a-oauth-2-es
+
 Introduction to JSON Web Tokens  
 https://jwt.io/introduction/
 
